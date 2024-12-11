@@ -4,6 +4,6 @@ The arnesi utilities suite.
 
 |---------+---------------------------------------------------|
 | source  | git:https://github.com/AccelerationNet/arnesi.git |
-| commit  | 1e7dc4c                                           |
+| commit  | 93dc906                                           |
 | systems | arnesi                                            |
 |---------+---------------------------------------------------|
